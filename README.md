@@ -3,6 +3,7 @@
 
 ```
 Requirements
+  - PIA Username/Password
   - Docker
   - Docker-Compose
   - Wireguard Container: https://github.com/wg-easy/wg-easy
