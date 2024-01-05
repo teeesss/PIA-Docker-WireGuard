@@ -12,5 +12,7 @@ Requirements
 Wireguard How-To:
 #### https://www.blackvoid.club/wireguard-vpn-for-your-synology-nas/
 
+Run `./pia-getregions.sh` to populate your .env variable for `PIA_LOCATION=`
+
 
 
